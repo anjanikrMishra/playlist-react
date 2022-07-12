@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+## Setting Up
+- Download and Install node-js from https://nodejs.org/en/
+- clone this repo
+- Run **npm install** command in terminal, this downloads all required libraries.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Then follow below commands to run the code.
 
 ## Available Scripts
 
