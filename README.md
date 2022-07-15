@@ -1,5 +1,5 @@
-## Setting Up
-- Download and Install node-js from https://nodejs.org/en/
+## Installation Prerequisites
+- Download and Install node-js for [Ubuntu](https://github.com/nodesource/distributions/blob/master/README.md#deb)  OR from https://nodejs.org/en/
 - clone this repo
 - Run **npm install** command in terminal, this downloads all required libraries.
 
